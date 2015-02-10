@@ -17,7 +17,11 @@
 	    <br/>
 	    
 	   
+<<<<<<< HEAD
 	    <div class="container" >
+=======
+	    <div class="container" style="background-color:pink">
+>>>>>>> FETCH_HEAD
 		 	<table id="messages" class="display" cellspacing="0">
 		        <thead>
 		            <tr>
