@@ -7,7 +7,7 @@ applications:
       type: mysql
     airlift-mq:
       type: rabbitmq3   
-   helion:
+   stackato:
     env:
         QUEUE_NAME: fibq
     min_version:
