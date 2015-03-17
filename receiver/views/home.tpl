@@ -17,6 +17,7 @@
 	    <br/>
 	    
 	   
+	    <div class="container" >
 	    <div class="container" style="background-color:pink">
 		 	<table id="messages" class="display" cellspacing="0">
 		        <thead>
